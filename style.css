@@ -1,0 +1,83 @@
+img {
+  height: 30vw;
+  width: 30vw;
+  margin: 1vw;
+}
+
+h1 {
+  font-size: 6vw;
+  text-align: center;
+  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD12gdxDOQlO2Jdgw6KcqNTQz-HMwyOMb5dA&usqp=CAU);
+  background-size: 100% 100%;
+  background-clip: text;
+  color: transparent;
+}
+
+ol > li:before {
+  content: "-";
+  text-indent: 2vw;
+}
+
+#Home {
+  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD12gdxDOQlO2Jdgw6KcqNTQz-HMwyOMb5dA&usqp=CAU);
+  background-size: 100% 100%;
+  background-clip: text;
+  color: transparent;
+  font-size: 20vw;
+}
+
+#Main {
+  background: url(https://s.yimg.com/uu/api/res/1.2/sF9gUfSTAVikFi0COOkHGw--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/nbc_sports_chicago_videos_177/29b5102feb6bad4a353bed65f3e18116);
+  background-size: 100% 100%;
+}
+
+#images {
+  background-color: black;
+}
+
+#MVP {
+  background: url(https://miro.medium.com/v2/resize:fit:368/1*JWTpxoViBVre50Jr6WnzVg.png);
+  background-size: 100% 100%;
+}
+
+main {
+  color: darkorange;
+  display: flex;
+  place-content: center;
+}
+
+section {
+  margin: 5vw;
+  font-size: x-large;
+  border-style: double;
+  padding: 2vw;
+  background-color: black;
+}
+
+li {
+  color: bisque;
+}
+
+.navbar {
+  display: inline;
+  float: left;
+}
+
+a {
+  display: block;
+  padding: 8px;
+  background-color: bisque;
+}
+
+.navbar a:hover {
+  background-color: olive;
+}
+
+#Champion {
+  background: url(https://www.point-of-rental.com/wp-content/uploads/2016/06/E2C475-1.jpg);
+  background-size: 100% 100%;
+}
+
+h2 {
+  text-decoration: underline;
+}
