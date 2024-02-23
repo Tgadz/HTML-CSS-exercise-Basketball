@@ -61,12 +61,16 @@ li {
 .navbar {
   display: inline;
   float: left;
+  text-align: center;
 }
 
 a {
   display: block;
   padding: 8px;
   background-color: bisque;
+  text-align: center;
+  width: 150px;
+  text-decoration: none;
 }
 
 .navbar a:hover {
@@ -80,4 +84,13 @@ a {
 
 h2 {
   text-decoration: underline;
+}
+
+header {
+  height: 35px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
 }
